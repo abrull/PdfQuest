@@ -1,0 +1,43 @@
+{
+  "version": 2,
+  "dgSpecHash": "8hpJgyirK/gflGd1nLnIzrKK95IyEjPe2dEWKnCpcPwxRWlOS4uUzHJEPOCq2Zg0/ejR8fnI67tA9706hWQ6Tw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\abrull\\source\\repos\\QuestPdf\\QuestPdf\\QuestPdf.iOS\\QuestPdf.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abrull\\.nuget\\packages\\commonservicelocator\\2.0.5\\commonservicelocator.2.0.5.nupkg.sha512",
+    "C:\\Users\\abrull\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\abrull\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\abrull\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\abrull\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\abrull\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\abrull\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\abrull\\.nuget\\packages\\microsoft.io.recyclablememorystream\\2.2.0\\microsoft.io.recyclablememorystream.2.2.0.nupkg.sha512",
+    "C:\\Users\\abrull\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\abrull\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\abrull\\.nuget\\packages\\system.collections.immutable\\1.3.1\\system.collections.immutable.1.3.1.nupkg.sha512",
+    "C:\\Users\\abrull\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512",
+    "C:\\Users\\abrull\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\abrull\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\abrull\\.nuget\\packages\\uno.core.extensions.logging\\4.0.0-dev.7\\uno.core.extensions.logging.4.0.0-dev.7.nupkg.sha512",
+    "C:\\Users\\abrull\\.nuget\\packages\\uno.core.extensions.logging.singleton\\4.0.0-dev.7\\uno.core.extensions.logging.singleton.4.0.0-dev.7.nupkg.sha512",
+    "C:\\Users\\abrull\\.nuget\\packages\\uno.diagnostics.eventing\\2.0.1\\uno.diagnostics.eventing.2.0.1.nupkg.sha512",
+    "C:\\Users\\abrull\\.nuget\\packages\\uno.extensions.logging.oslog\\1.0.1\\uno.extensions.logging.oslog.1.0.1.nupkg.sha512",
+    "C:\\Users\\abrull\\.nuget\\packages\\uno.foundation.logging\\4.0.11\\uno.foundation.logging.4.0.11.nupkg.sha512",
+    "C:\\Users\\abrull\\.nuget\\packages\\uno.sourcegenerationtasks\\4.0.0\\uno.sourcegenerationtasks.4.0.0.nupkg.sha512",
+    "C:\\Users\\abrull\\.nuget\\packages\\uno.ui\\4.0.11\\uno.ui.4.0.11.nupkg.sha512",
+    "C:\\Users\\abrull\\.nuget\\packages\\uno.ui.adapter.microsoft.extensions.logging\\4.0.11\\uno.ui.adapter.microsoft.extensions.logging.4.0.11.nupkg.sha512",
+    "C:\\Users\\abrull\\.nuget\\packages\\uno.ui.remotecontrol\\4.0.11\\uno.ui.remotecontrol.4.0.11.nupkg.sha512",
+    "C:\\Users\\abrull\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1108",
+      "level": "Error",
+      "message": "Cycle detected. \r\n  QuestPdf -> QuestPDF (>= 2021.12.0).",
+      "libraryId": "QuestPDF",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0"
+      ]
+    }
+  ]
+}
